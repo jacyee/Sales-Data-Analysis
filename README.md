@@ -14,3 +14,5 @@ Disbursement Case processing sequence diag
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/57039610/161942624-39f2762a-98f1-486c-b772-aea0d93bf516.png">
 <br>
 <img width="585" alt="image" src="https://user-images.githubusercontent.com/57039610/162625912-c5949d66-beec-43ba-a5c3-c09f1578a42d.png">
+<br>
+<img width="428" alt="image" src="https://user-images.githubusercontent.com/57039610/162925152-40a3c0a6-ff81-4901-a396-45673f6dc646.png">
